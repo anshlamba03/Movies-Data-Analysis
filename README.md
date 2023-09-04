@@ -15,36 +15,21 @@ Data Cleansing:
 Data Analysis:
 
 1. Setting the Stage: The cleaned dataset was meticulously loaded into a SQL database, laying the foundation for a theatrical data analysis.
-
 2. Chronicles of Time: A visual tableau of cinematic history emerged as we examined the trend of the number of movies over the years, revealing fascinating temporal dynamics.
-
 3. Box Office Epics: The spotlight turned to the top 5 movies with the highest revenue, showcasing cinematic blockbusters that dominated the box office.
-
 4. Budgets vs. Blockbusters: A financial analysis illuminated the intriguing correlation between budgets and revenue, underscoring the financial dynamics of the industry.
-
 5. Return on Investment (ROI): Our journey delved into the ROI realm, uncovering the top 5 movies with the most impressive returns, where modest budgets yielded staggering profits.
-
 6. Critics' Choice: A critical evaluation ensued as we unveiled the top 5 highest-rated movies, where audience sentiment met critical acclaim, a testament to cinematic excellence.
-
 7. Movies Searches:
-  
   * Pixar's Enchantment: Our quest led us to explore the most successful Pixar Studio movies between 2010 and 2015, revealing high-revenue gems that enchanted audiences.
-  
   * Action and Thrills: In search of adrenaline-pumping experiences, we scoured for action or thriller movies with original English language and a minimum rating of 7.5, uncovering cinematic thrills.
-
 8. Most Successful Directors:
-
   * By Number of Productions: Directors were celebrated based on the number of movies under their directorial baton, showcasing their prolific contributions to the cinematic world.
-
   * By Box Office Mastery: We hailed directors for their box office prowess, with select visionaries commanding the limelight.
-
 9. Most Successful Franchises:
-
   * By Number of Movies: Franchises were scrutinized based on the number of movies they spawned, revealing enduring cinematic legacies.
   * By Box Office Dominance: A financial analysis laid bare the franchises with the highest revenue, where iconic franchises vied for supremacy.
   * By Critical Acclaim: Shifting our focus, we explored franchises through the lens of critical acclaim, offering a unique perspective on success within the cinematic universe.
-
 10. Tagline Tales:
-
   * Words that Resonate: In the realm of movie taglines, we examined common words through an evocative word cloud, capturing the essence of cinematic storytelling in a captivating visual tableau
 
