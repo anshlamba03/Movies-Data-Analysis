@@ -7,11 +7,8 @@ In the realm where data orchestrates cinematic narratives, an enthralling journe
 Data Cleansing:
 
 1. Embarking on the Raw Data Odyssey: Our journey commenced with the acquisition of a raw, unruly dataset – "movies_metadata.csv." This uncut gem had the potential to shine, but it first demanded a thorough cleansing.
-
 2. Parsing JSON Chronicles: The unstructured JSON columns presented a formidable challenge. Using the literal_eval technique, we meticulously dissected these columns, revealing the hidden gems within "belongs_to_collection," "genres," "spoken_languages," and "production_companies."
-
 3. Casting the Ensemble: Casting played a pivotal role in this narrative. The "cast" column underwent a transformation, with names of the illustrious cast members elegantly revealed. In the world of directors, we identified the key players and dropped duplicates.
-
 4. Reimagining the Script: Columns were artfully reordered and reindexed, providing a coherent and compelling storyline for our dataset.
 
 
