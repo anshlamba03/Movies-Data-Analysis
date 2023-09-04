@@ -1,7 +1,6 @@
-# Movies-Data-Analysis
+# Unveiling Cinematic Insights - A Data-Driven Odyssey
 
 
-Unveiling Cinematic Insights - A Data-Driven Odyssey
 
 In the realm where data orchestrates cinematic narratives, an enthralling journey unfurled through the realm of Python and its commanding libraries. Armed with precision tools and analytical acumen, we embarked on an expedition into the intricate world of film data, as portrayed in the hallowed dataset, "movies_metadata.csv." Our quest? To extract insights, craft visual narratives, and unlock the secrets held within.
 
